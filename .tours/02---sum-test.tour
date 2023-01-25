@@ -3,13 +3,14 @@
   "title": "02 - Sum test",
   "steps": [
     {
-      "title": "Introduction",
-      "description": "This codetour explains the sum test"
-    },
-    {
       "file": "src/sum.ts",
       "description": "sum is a regular exported function",
       "line": 5
+    },
+    {
+      "file": "src/sum.test.ts",
+      "description": "describe allows you to add some description to a test suite",
+      "line": 3
     },
     {
       "file": "src/sum.test.ts",
@@ -17,9 +18,8 @@
       "line": 1
     },
     {
-      "file": "src/sum.test.ts",
-      "description": "describe allows you to add some description to a test suite",
-      "line": 3
+      "title": "Introduction",
+      "description": "This codetour explains the sum test"
     },
     {
       "file": "src/sum.test.ts",
